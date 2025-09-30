@@ -7,7 +7,7 @@ to then value the option given each path.
 
 # Compile command
 
-nvcc -O3 -lcurand final-exam.cu -o final-exam
+nvcc -O3 -lcurand monte-carlo.cu -o monte-carlo-cuda
 
 # Preliminary results
 

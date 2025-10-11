@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is work done mostly for a HPC in C++ and Python course. This houses the C++ code.
+This is work done mostly for a HPC in C++ and Python course. This repo houses the C++ code (and their Python/Julia implementations for comparison)
 
 ## Index
 
